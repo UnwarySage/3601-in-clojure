@@ -1,6 +1,6 @@
 # sage-server
-A skeleton showing how to lay out a clojure web server for 3601 classes
-browse to /help to see more info, once you have launched it
+A skeleton showing how to lay out a clojure web server for 3601 classes.
+Browse to /help to see more info, once you have launched it.
 
 ## Prerequisites
 
